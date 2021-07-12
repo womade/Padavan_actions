@@ -6,8 +6,8 @@ ROMFS_DIR = $(ROOTDIR)/romfs
 
 include $(ROOTDIR)/user/shared/boards.mk
 
-PROJECT_HOME_URL="https:\/\/bitbucket.org\/padavan\/rt-n56u\/"
-PROJECT_HOME_URL_MOD="https:\/\/github.com\/womade\/rt-n56u\/"
+PROJECT_HOME_URL="https://bitbucket.org/padavan/rt-n56u/"
+PROJECT_HOME_URL_MOD="https://file.ssss.fun/?/%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%BF%83/%E8%B7%AF%E7%94%B1%E5%9B%BA%E4%BB%B6/Padavan/"
 
 LABEL_COPYRIGHT_TEXT='Copyright © 1998 - 2021 <a href="https:\/\/i.ssss.fun" target="blank">中國遠徵<\/a> All Rights Reserved'
 
