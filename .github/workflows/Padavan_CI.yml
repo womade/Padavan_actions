@@ -67,8 +67,8 @@ env:
         CONFIG_FIRMWARE_INCLUDE_KOOLPROXY #KP广告过滤
         ##广告管理##
         ##DNS服务##
-        CONFIG_FIRMWARE_INCLUDE_SMARTDNS=y" >> .config #smartdns
-        CONFIG_FIRMWARE_INCLUDE_ADGUARDHOME=y" >> .config #adg DNS去AD
+        CONFIG_FIRMWARE_INCLUDE_SMARTDNS #smartdns
+        CONFIG_FIRMWARE_INCLUDE_ADGUARDHOME #adg DNS去AD
         ##DNS服务##
         ##文件管理##
         CONFIG_FIRMWARE_INCLUDE_CADDY #在线文件管理服务
